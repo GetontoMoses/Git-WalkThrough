@@ -1,3 +1,5 @@
-.h1{
+.kituyoyote{
     background-color: rgb(26, 187, 187);
+    font-size: larger;
+    flex-direction: column;
 }
